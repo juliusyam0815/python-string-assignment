@@ -16,15 +16,23 @@ The available operations include:
 The menu keeps repeating until the user chooses to exit.
 
 ---
+<img width="1034" height="1317" alt="image" src="https://github.com/user-attachments/assets/c7a48cfc-8f08-4c96-b23b-f89cdd20a3b2" />
+
+<img width="1027" height="1001" alt="image" src="https://github.com/user-attachments/assets/a3089ba8-6c48-439e-8431-b88419635396" />
+
+
 
 ### Example 1:
 **Input:**
 **Output:**
 
+<img width="842" height="1064" alt="image" src="https://github.com/user-attachments/assets/bbb9602c-4d90-4fc4-9abc-e9c52b2e3a41" />
+
 ### Example 2:
 **Input:**
 **Output:**
 
+<img width="794" height="720" alt="image" src="https://github.com/user-attachments/assets/88e838cc-570a-4f6e-8f3c-76bc9774a3b5" />
 
 
 ---
